@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# environment
+pilot/
+
+# data files
+datasets-input-neural-network/DatasetD2/*
+features-matrices/*.csv
